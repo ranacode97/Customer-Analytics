@@ -1,6 +1,6 @@
-# Quantium Virtual Experience Program in Data Analytics
+# Customer Segmentation & Store Trial Evaluation
 
-- This is program consists of 3 tasks 
+- This project is part of Quantium Virtual Experience Program in Data Analytics program which consists of 3 tasks.
 - All these code files were my personal submissions for this program. Except the data files which were assigned by Quantium.
 
 ---
